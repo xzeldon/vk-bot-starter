@@ -12,6 +12,4 @@ setup_hear_middleware(bot);
 ping_command();
 help_command();
 
-console.log(process.env.NODE_ENV);
-
 start();
