@@ -12,4 +12,5 @@ setup_hear_middleware(bot);
 ping_command();
 help_command();
 
+// start bot
 start();
