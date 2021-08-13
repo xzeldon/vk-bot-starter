@@ -1,6 +1,6 @@
 {
   "name": "vk-bot-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic starter for an vk bot",
   "main": "src/index.js",
   "license": "MIT",
